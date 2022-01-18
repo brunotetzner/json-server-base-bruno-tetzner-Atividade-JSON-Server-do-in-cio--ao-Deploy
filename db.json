@@ -1,11 +1,125 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "bruno123@gmail.com",
+      "password": "$2a$10$9BhKV./ptKJZx4mKsTCESOxx.eC/VY65nGF41SuR.SaNGpb0KGGoS",
+      "name": "Bruno123",
+      "age": 19,
       "id": 1
+    },
+    {
+      "email": "jackSparrow@jarroDeAreia.com",
+      "password": "$2a$10$CyxNkhunf8l9CPFlS7bdUuE9dG6aXEvO1YDrtEmiSooNsFjUeLZy6",
+      "name": "Sparrow",
+      "age": 19,
+      "id": 2
+    },
+    {
+      "email": "bruno1234@gmail.com",
+      "password": "$2a$10$7jn44AZOoMx2eIMuTZHRsOCriCVJfQBTOLsQSmZlmrUHXwbDufQ3a",
+      "name": "Bruno1234",
+      "age": 19,
+      "id": 3
+    }
+  ],
+  "subject": [
+    {
+      "name": "Geografia",
+      "description": "Espaço para revisão dos tipos de rochas",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Fisica",
+      "description": "Espaço para estudo de fisíca basica",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "matemática",
+      "description": "Espaço para estudo das funções matemáticas",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "biologia",
+      "description": "Espaço para estudo da biologia, focado nos efeitos do alcool(principalmente o rum) no corpo",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "fisíca",
+      "description": "Espaço para estudo da principalmente o magnetismo",
+      "userId": 2,
+      "id": 5
+    }
+  ],
+  "topic": [
+    {
+      "name": "rochas sedimentares",
+      "userId": 1,
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "name": "ondulátoria",
+      "userId": 1,
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "name": "logaritimos",
+      "userId": 1,
+      "subjectId": 3,
+      "id": 3
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 2,
+      "subjectId": 3,
+      "id": 4
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 2,
+      "subjectId": 3,
+      "id": 5
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 2,
+      "subjectId": 3,
+      "id": 6
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 2,
+      "subjectId": 3,
+      "id": 7
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 2,
+      "subjectId": 3,
+      "id": 8
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 2,
+      "subjectId": 3,
+      "id": 9
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 2,
+      "subjectId": 3,
+      "id": 10
+    },
+    {
+      "name": "magnetismo e bussolas",
+      "userId": 1,
+      "subjectId": 1,
+      "id": 11
     }
   ]
 }
